@@ -5,7 +5,7 @@
   <a href="https://lucent-truffle-3b6c5c.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:burak.usr16@gmail.com" target="_blank">
+  <a href="mailto:burak.ysr16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/burak_yasarr16" target="_blank">
@@ -21,7 +21,7 @@
 - 🌱 I'm currently learning **Flutter and Laravel**
 - 👨‍💻 Check out my portfolio: **[https://lucent-truffle-3b6c5c.netlify.app/](https://lucent-truffle-3b6c5c.netlify.app/)**
 - 💬 Ask me about **Node.js, HTML, CSS, JavaScript, and PHP**
-- 📫 How to reach me: **burak.usr16@gmail.com**
+- 📫 How to reach me: **burak.ysr16@gmail.com**
 - ⚡ Fun fact: I love creating interactive web applications and mobile apps
 
 ---
@@ -96,8 +96,8 @@
   <a href="https://instagram.com/burak_yasarr16" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burak_yasarr16" height="30" width="40" />
   </a>
-  <a href="mailto:burak.usr16@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="burak.usr16@gmail.com" height="30" width="40" />
+  <a href="mailto:burak.ysr16@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="burak.ysr16@gmail.com" height="30" width="40" />
   </a>
 </p>
 
