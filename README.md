@@ -19,7 +19,7 @@
 
 - 🔭 I'm currently working on **Ruj Falı mobile app** - AI-powered lip color analysis with Flutter
 - 🌱 I'm currently learning **Flutter and Laravel**
-- 👨‍💻 Check out my portfolio: **[https://lucent-truffle-3b6c5c.netlify.app/](https://lucent-truffle-3b6c5c.netlify.app/)**
+- 👨‍💻 Check out my portfolio: **[https://lucent-truffle-3b6c5c.netlify.app/](https://burakyasar.netlify.app/)**
 - 💬 Ask me about **Node.js, HTML, CSS, JavaScript, and PHP**
 - 📫 How to reach me: **burak.ysr16@gmail.com**
 - ⚡ Fun fact: I love creating interactive web applications and mobile apps
